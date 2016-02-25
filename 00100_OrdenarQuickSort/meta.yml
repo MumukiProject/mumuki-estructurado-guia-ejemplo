@@ -1,5 +1,8 @@
+---
 tags:
-  - ayer
-  - ejemplo
-  - ordenamiento
-language: c
+- ayer
+- ejemplo
+- ordenamiento
+layout: editor_right
+type: problem
+extra_visible: false
