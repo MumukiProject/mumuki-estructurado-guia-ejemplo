@@ -3,7 +3,7 @@ name: Guia ejemplo estructurado
 locale: es
 type: practice
 beta: false
-teacher_info: a
+teacher_info: '> *a*'
 language: c
 id_format: '%05d'
 order:
