@@ -1,10 +1,12 @@
-class lista {
-  nodo * primer_nodo;
-};
-
 class nodo {
+  public:
   int valor;
   nodo * siguiente;
+};
+
+class lista {
+  public:
+  nodo * primer_nodo;
 };
 
 lista * nueva() {
